@@ -1,0 +1,60 @@
+C:\Users\LENOVO\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\LENOVO\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\LENOVO\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\LENOVO\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Interop.WMPLib.dll
+C:\Users\LENOVO\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\LENOVO\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\QLyThuVien.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\QLyThuVien.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Interop.WMPLib.dll
+C:\Users\LENOVO\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\LENOVO\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\QLyThuVien.csproj.ResolveComReference.cache
+C:\Users\LENOVO\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Home.resources
+C:\Users\LENOVO\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.QuanLyDocGia.resources
+C:\Users\LENOVO\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.QuanLyNhanVien.resources
+C:\Users\LENOVO\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.QuanLySach.resources
+C:\Users\LENOVO\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.timKiemSach.resources
+C:\Users\LENOVO\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\QLyThuVien.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\QLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\LENOVO\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\TAILIEUTRUONG\HK5\HK5A\LapTrinhWindow\chua sln winform\nhom 4 nguoi\DoAnMon\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\TAILIEUTRUONG\HK5\HK5A\LapTrinhWindow\chua sln winform\nhom 4 nguoi\DoAnMon\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\TAILIEUTRUONG\HK5\HK5A\LapTrinhWindow\chua sln winform\nhom 4 nguoi\DoAnMon\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\TAILIEUTRUONG\HK5\HK5A\LapTrinhWindow\chua sln winform\nhom 4 nguoi\DoAnMon\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Interop.WMPLib.dll
+E:\TAILIEUTRUONG\HK5\HK5A\LapTrinhWindow\chua sln winform\nhom 4 nguoi\DoAnMon\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AxInterop.WMPLib.dll
+E:\TAILIEUTRUONG\HK5\HK5A\LapTrinhWindow\chua sln winform\nhom 4 nguoi\DoAnMon\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\QLyThuVien.csproj.AssemblyReference.cache
+E:\TAILIEUTRUONG\HK5\HK5A\LapTrinhWindow\chua sln winform\nhom 4 nguoi\DoAnMon\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\QLyThuVien.csproj.SuggestedBindingRedirects.cache
+E:\TAILIEUTRUONG\HK5\HK5A\LapTrinhWindow\chua sln winform\nhom 4 nguoi\DoAnMon\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Interop.WMPLib.dll
+E:\TAILIEUTRUONG\HK5\HK5A\LapTrinhWindow\chua sln winform\nhom 4 nguoi\DoAnMon\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\AxInterop.WMPLib.dll
+E:\TAILIEUTRUONG\HK5\HK5A\LapTrinhWindow\chua sln winform\nhom 4 nguoi\DoAnMon\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\QLyThuVien.csproj.ResolveComReference.cache
+E:\TAILIEUTRUONG\HK5\HK5A\LapTrinhWindow\chua sln winform\nhom 4 nguoi\DoAnMon\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Home.resources
+E:\TAILIEUTRUONG\HK5\HK5A\LapTrinhWindow\chua sln winform\nhom 4 nguoi\DoAnMon\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\TAILIEUTRUONG\HK5\HK5A\LapTrinhWindow\chua sln winform\nhom 4 nguoi\DoAnMon\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.QuanLyDocGia.resources
+E:\TAILIEUTRUONG\HK5\HK5A\LapTrinhWindow\chua sln winform\nhom 4 nguoi\DoAnMon\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.QuanLyNhanVien.resources
+E:\TAILIEUTRUONG\HK5\HK5A\LapTrinhWindow\chua sln winform\nhom 4 nguoi\DoAnMon\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.QuanLySach.resources
+E:\TAILIEUTRUONG\HK5\HK5A\LapTrinhWindow\chua sln winform\nhom 4 nguoi\DoAnMon\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.timKiemSach.resources
+E:\TAILIEUTRUONG\HK5\HK5A\LapTrinhWindow\chua sln winform\nhom 4 nguoi\DoAnMon\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\QLyThuVien.csproj.GenerateResource.cache
+E:\TAILIEUTRUONG\HK5\HK5A\LapTrinhWindow\chua sln winform\nhom 4 nguoi\DoAnMon\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\QLyThuVien.csproj.CoreCompileInputs.cache
+E:\TAILIEUTRUONG\HK5\HK5A\LapTrinhWindow\chua sln winform\nhom 4 nguoi\DoAnMon\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\TAILIEUTRUONG\HK5\HK5A\LapTrinhWindow\chua sln winform\nhom 4 nguoi\DoAnMon\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\PC\source\repos\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\PC\source\repos\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\PC\source\repos\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\PC\source\repos\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Interop.WMPLib.dll
+C:\Users\PC\source\repos\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\PC\source\repos\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\QLyThuVien.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\QLyThuVien.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Interop.WMPLib.dll
+C:\Users\PC\source\repos\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\PC\source\repos\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\QLyThuVien.csproj.ResolveComReference.cache
+C:\Users\PC\source\repos\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Home.resources
+C:\Users\PC\source\repos\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\PC\source\repos\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.QuanLyDocGia.resources
+C:\Users\PC\source\repos\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.QuanLyNhanVien.resources
+C:\Users\PC\source\repos\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.QuanLySach.resources
+C:\Users\PC\source\repos\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.timKiemSach.resources
+C:\Users\PC\source\repos\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\QLyThuVien.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\QLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\PC\source\repos\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

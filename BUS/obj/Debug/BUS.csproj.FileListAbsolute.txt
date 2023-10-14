@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\WindowsFormsApp2\WindowsFormsApp2\BUS\bin\Debug\BUS.dll
+C:\Users\PC\source\repos\WindowsFormsApp2\WindowsFormsApp2\BUS\bin\Debug\BUS.pdb
+C:\Users\PC\source\repos\WindowsFormsApp2\WindowsFormsApp2\BUS\bin\Debug\DAL.dll
+C:\Users\PC\source\repos\WindowsFormsApp2\WindowsFormsApp2\BUS\bin\Debug\DAL.pdb
+C:\Users\PC\source\repos\WindowsFormsApp2\WindowsFormsApp2\BUS\bin\Debug\DAL.dll.config
+C:\Users\PC\source\repos\WindowsFormsApp2\WindowsFormsApp2\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\WindowsFormsApp2\WindowsFormsApp2\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\WindowsFormsApp2\WindowsFormsApp2\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\PC\source\repos\WindowsFormsApp2\WindowsFormsApp2\BUS\obj\Debug\BUS.dll
+C:\Users\PC\source\repos\WindowsFormsApp2\WindowsFormsApp2\BUS\obj\Debug\BUS.pdb
